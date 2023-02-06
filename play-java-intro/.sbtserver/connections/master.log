@@ -1,0 +1,13 @@
+New log file opened at Wed Apr 01 16:18:39 PDT 2015 by 1176@ENG
+Taking next connection to: 60070
+New client attempting to connect on port: 60071-60070
+  Address = /192.168.1.4:60070
+This client on port 60071 has uuid 21ece285-a236-48b6-b9fc-663daec52996 configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-21ece285-a236-48b6-b9fc-663daec52996
+Taking next connection to: 60070
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60070
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 60070
